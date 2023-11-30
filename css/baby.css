@@ -1,0 +1,36 @@
+  
+  
+  /* Basic styling */
+  .baby-profile {
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+  }
+ 
+  
+  .baby-details {
+    margin-bottom: 20px;
+
+  }
+
+
+
+  
+  .next-vaccine,
+  .next-vitamin,
+  .history {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+  
+  .history-list {
+    list-style: none;
+    padding: 20px;
+  }
+  
+  .history-list li {
+    margin-bottom: 8px;
+  }
+
+  
+  
